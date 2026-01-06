@@ -1,9 +1,9 @@
 ---
-name: "✨ 기능 구현"
+name: '✨ 기능 구현'
 about: 새로운 기능 추가 또는 개선 작업을 위한 템플릿입니다.
-title: "[feat]"
+title: '[feat]'
 labels: enhancement
-assignees: ""
+assignees: ''
 ---
 
 ## 📝 개요

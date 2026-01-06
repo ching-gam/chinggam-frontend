@@ -1,9 +1,9 @@
 ---
 name: "\U0001F4C4 문서 작업"
 about: 문서 추가 또는 수정 작업을 위한 템플릿입니다.
-title: "[docs]"
+title: '[docs]'
 labels: documentation
-assignees: ""
+assignees: ''
 ---
 
 ## ✍️ 개요
